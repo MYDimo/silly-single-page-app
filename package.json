@@ -1,0 +1,23 @@
+{
+  "name": "silly-single-page-app",
+  "version": "1.0.0",
+  "description": "First single app apliccaiton folliwng steps from DCode from YT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYDimo/silly-single-page-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MYDimo/silly-single-page-app/issues"
+  },
+  "homepage": "https://github.com/MYDimo/silly-single-page-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
