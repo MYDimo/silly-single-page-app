@@ -1,2 +1,2 @@
-# silly-single-page-app
-First single app apliccaiton folliwng steps from DCode from YT
+# Simple notes app
+Using [DCode's lesson](https://www.youtube.com/watch?v=01YKQmia2Jw&t=258s). The object is to use git to work on a "real" project using branching, merging etc. And in the meanwhile to learn good practices and concepts of building an app.
